@@ -1,3 +1,6 @@
+/**
+ * https://leetcode.cn/problems/two-sum/
+ */
 public class towSum {
     /**
      * 双层循环，只要等于target就行
