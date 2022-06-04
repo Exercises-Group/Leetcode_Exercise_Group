@@ -47,5 +47,4 @@ public class towSum {
     public int[] twoSumWay3(int[] nums, int target) {
 
     }
-
 }
